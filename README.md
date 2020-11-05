@@ -1,5 +1,5 @@
 # Password-manager-windows-appliaction
-This is a simple password manager. It doesn't use any server. It takes your password and saves the encrypted password to your computer. It is a UI based application for windows created in visual studio 2017 using c++.
+This is a simple password manager. It takes password and other related fields from user and saves in the encrypted form into computer. It is a UI based application for windows developed using visual studio 2017 using c++.
 <p align="center">
   <img src="passman_Images/1.png"  title="Welcome Page">
   <img src="passman_Images/2.png"  alt="Login Page" title="Login Page">
